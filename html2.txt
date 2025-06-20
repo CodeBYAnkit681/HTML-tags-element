@@ -1,0 +1,19 @@
+<h1>-<h6>
+<hr>
+<br>
+<p>
+<pre>
+
+lets move forward to formatting 
+comments
+<ul>
+            <li>b, strong</li>
+            <li>i, em</li>
+            <li>sub, sup</li>
+            <li><del>del</del> & <ins>ins</ins>  , <mark>mark</mark> </li>
+</ul>
+<abbr title>
+<address>
+<bdo dir="">
+<blockquote cite = "">
+<q>

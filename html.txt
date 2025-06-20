@@ -1,0 +1,16 @@
+html
+child - head and body
+boiler plater 
+heading family tags 
+emmet , mdn and w3 
+element,tags and attributes \
+absolute link and relative link
+anchor tags 
+img tags
+b,i,u
+big, small
+sub,sup
+Layout Tags - Header , Main and Footer
+<picture>
+    <source srcset media> 
+    <img>
